@@ -16,4 +16,4 @@ The values you'll be interested with tweeking are:
 
 1) concentration and mellow: these are set to 0.7 and will be the threshold at which the LED lights will light up. Look at the Muse     documentation for more info on the two.
 
-2) concounter and melcounter: these values are there to allow the serial commands to come in at a nice steady pace nd not flood into the board. Adjust these to affect how the quickly or slowly the board responds to brain activity. 
+2) concounter and melcounter: these values are there to allow the serial commands to come in at a nice steady pace and not flood into the board. Adjust these to adjust how quickly or slowly the board responds to brain activity. 
