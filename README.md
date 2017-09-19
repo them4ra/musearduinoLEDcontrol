@@ -12,7 +12,7 @@ Get a version of Python up and running, be sure it's 3.4+ so python-osc works th
 
 Upload the Arduino sketch to the board and connect the LED lights with some resistors to the right pins. Connect the Muse headset with Bluetooth to the computer and run Muse-IO to stream to port 5005 and then run the Python script. Make sure the Arduino is already connected via serial connection before running the script or you'll get an error. 
 
-The values you'll be interested with tweeking are:
+The values you'll be interested in tweeking are:
 
 1) concentration and mellow: these are set to 0.7 and will be the threshold at which the LED lights will light up. Look at the Muse     documentation for more info on the two.
 
